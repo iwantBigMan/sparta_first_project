@@ -2,7 +2,11 @@
 
 * 스파르타 부트 캠프 1주 차 팀 프로젝트
 * flutter를 이용한 팀원 소개 앱 제작
+## 와이어 프레임 링크
+* https://www.figma.com/file/l3FgHngLhK6rRHsayNQbOb/minwookim?type=design&node-id=0-1&mode=design&t=BSGsCkapGiomSFZ7-0
 
+### S.A 링크
+* https://www.notion.so/A-8-4ae615e5711a444d8ea76f210c68da3f
 
 ## 기술 스택
 
